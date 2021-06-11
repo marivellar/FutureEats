@@ -1,12 +1,12 @@
 <h1 align="center"> Future Eats </h1>
 
-<h1 align="center"> Status </h1>
+<h2 align="center"> Status </h2>
 
 <p align="center" > > Status do Projeto: Concluido :heavy_check_mark: </p>
 
 <h2 align="center"> Descrição do projeto </h2>
 
-<p align="center"> O aplicativo Future Eats foi desenvolvido em React para a versão mobile. Integrado com API, esse app é semelhante aos aplicativos de entrega de comida, ele fornece para os usuários cadastrados e logados, uma lista de restaurantes, os produtos e serviços, permite adicionar ou remover do carrinho e fazer pedidos.
+<p align="center"> O aplicativo Future Eats foi desenvolvido em React para a versão mobile. Integrado com API, esse app é semelhante aos aplicativos de entrega de comida, ele fornece para os usuários cadastrados e logados, uma lista de restaurantes, os produtos e serviços, permite adicionar ou remover do carrinho e fazer pedidos.</p>
 
 <h2 align="center"> Deploy da Aplicação com Surge </h2>
 
