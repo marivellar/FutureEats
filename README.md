@@ -1,8 +1,8 @@
 <h1 align="center"> Future Eats </h1>
 
-<h2 align="center"> Status </h2>
+<h2 align="center"> Status do Projeto </h2>
 
-<p align="center" > > Status do Projeto: Concluido :heavy_check_mark: </p>
+<p align="center" > Concluido :heavy_check_mark: </p>
 
 <h2 align="center"> Descrição do projeto </h2>
 
@@ -17,7 +17,7 @@
 <p align="center"> > React </p>
 <p align="center"> > react-router-dom </p>
 <p align="center"> > axios </p>
-<p align="center"> > style-components </p>
+<p align="center"> > styled-components </p>
 <p align="center"> > @material-ui/core </p>
 <p align="center"> > @material-ui/icons </p>
 <p align="center"> > date-fns </p>
