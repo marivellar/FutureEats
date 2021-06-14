@@ -12,6 +12,11 @@
 
 <p align="center"> http://precious-farmer.surge.sh/ </p>
 
+<h2 align="center"> Credenciais de Login </h2>
+
+<p align="center"> Login: mariana.muyembe@labenu.com </p>
+<p align="center"> Senha: 1234 </p>
+
 <h2 align="center"> Linguagens, Dependências e Libs Instaladas </h2>
 
 <p align="center"> > React </p>
