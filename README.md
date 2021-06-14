@@ -6,7 +6,7 @@
 
 <h2 align="center"> Descrição do projeto </h2>
 
-<p align="center"> O aplicativo Future Eats foi desenvolvido em React para a versão mobile. Integrado com API, esse app é semelhante aos aplicativos de entrega de comida, ele fornece para os usuários cadastrados e logados, uma lista de restaurantes, os produtos e serviços, permite adicionar ou remover do carrinho e fazer pedidos.</p>
+<p align="center"> O aplicativo Future Eats foi desenvolvido em React para a versão mobile. Integrado com API, esse app é semelhante aos aplicativos de entrega de comida, ele fornece para os usuários cadastrados e logados, uma lista de restaurantes, os produtos e serviços, permite adicionar ou remover do carrinho e fazer pedidos. O design e layout do site seguem o que foi disponibilizado através do aplicativo Zepplin.</p>
 
 <h2 align="center"> Deploy da Aplicação com Surge </h2>
 
